@@ -2,15 +2,15 @@
 <br>
 <img src="https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png" alt="acdona" width="120">
 <br>
-A. C. <b>Doná Dev FSPHP</b>
+A. C. <b>Doná Dev FSPHP JavaScript</b>
 </h1>
 <br>
 
-# Projeto acd-project-name 📱 💻 🖥️ 
+# Projeto acd-clock-css 📱 💻 🖥️ 
 
->Este projeto é um modelo
+>Este projeto é um relógio em Css
 
-Objetivo é a utilização do mesmo em outros projetos
+Objetivo é a demonstração de recursos do CSS3
 
 ## Histórico de alterações
 
@@ -26,19 +26,11 @@ Objetivo é a utilização do mesmo em outros projetos
 
 ### Pré requisitos
 
-- um navegador com suporte a javascript
+- um navegador com suporte a CSS3
 
 ## Software utilizado
 - Visual Studio Code
 - Notepad++
-
-## Observações
-
-- Para funcionar corretamente, o projeto deve ser em localhost/index.html,
-sendo o localhost o endereço do seu servidor. 
-Se for tentado o acesso direto pelo index.html, o navegador apontará erro:
-O acesso ao script foi bloqueado pela política CORS.
-Access to script has been blocked by CORS policyps.
 
 ## Crédito
 
